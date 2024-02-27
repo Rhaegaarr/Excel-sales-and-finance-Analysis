@@ -5,7 +5,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a sales report comprising of _[different aspects](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/Sales_project.pdf)_
+    **1.** Create a sales report comprising of _[different aspects](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/Sales_project.pdf)_ of the business
 
     **2.** Create a _[customer performance report](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
