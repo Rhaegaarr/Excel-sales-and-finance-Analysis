@@ -22,9 +22,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+  **1.** Create a report to ascertain performance in different market _[based on divisions](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/Finance_report.pdf)_
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+  **2.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+
+   **3.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Rhaegaarr/Excel-sales-and-finance-Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -45,4 +47,4 @@
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.
